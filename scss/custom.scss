@@ -1,7 +1,11 @@
-// Override Bootstrap Styling see /bootrap/scss/_variables.scss for options
-
+$display1-size: 4rem;
+$display2-size: 3rem;
+$display3-size: 2rem;
+$display4-size: 1.5rem;
+$body-bg: #f8f9fa;
 $theme-colors: (
   "primary": #007bff,
 );
+
 
 @import "../bootstrap/scss/bootstrap";
